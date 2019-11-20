@@ -1,0 +1,2 @@
+# studenthelpdesktechnician
+Student help desk technician is optimized for course registration and student results. Whenever any student goes for registration a course. He has no idea, how many courses did he drop or fail. If he takes any drop or fails a course, whether it will overlap his regular courses. Also, All the offered courses are published on the university notice board. The student doesn't see the list online. This site fixes that problem easily. 
