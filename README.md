@@ -1,6 +1,6 @@
 # Student Help Desk Technician 
-####: [Proposal (click here)](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/raw/master/Proposal%20(SHDT).docx)
-####: [SRS (click here)](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/raw/master/SRS%20(SHDT).docx)
+#### [Proposal (click here)](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/raw/master/Proposal%20(SHDT).docx)
+#### [SRS (click here)](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/raw/master/SRS%20(SHDT).docx)
 
 Student help desk technician is optimized for course registration and student results.
 Whenever any student goes for registration a course. He has no idea, how many courses did he drop or fail. If he takes any drop or fails a course, whether it will overlap his regular courses.
