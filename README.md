@@ -18,7 +18,7 @@ Project Platform:
 •	MySQL
 
 Project Demo:
->![Home Page](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/Demo%20(4).png)
+*Home Page: ![Home Page](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/Demo%20(4).png)
 >![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/SHDT%20code/img/1.png)
 >![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/SHDT%20code/img/1.png)
 >![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/SHDT%20code/img/1.png)
