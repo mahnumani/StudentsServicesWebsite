@@ -18,8 +18,8 @@ Project Platform:
 •	MySQL
 
 ### Project Demo:
-![Result UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/Demo%20(2).png)
 ![Home Page](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/Demo%20(4).png)
+![Result UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/Demo%20(2).png)
 ![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/Demo%20(3).png)
 ![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/Demo%20(5).png)
 ![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/Demo%20(1).png)
