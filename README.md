@@ -1,6 +1,9 @@
 # Student Help Desk Technician 
+![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/SHDT%20code/img/1.png)
+<br>
 #### [Proposal (click here)](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/raw/master/Proposal%20(SHDT).docx)
 #### [SRS (click here)](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/raw/master/SRS%20(SHDT).docx)
+#### [Source Code (click here)](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/tree/master/SHDT%20code)
 
 Student help desk technician is optimized for course registration and student results.
 Whenever any student goes for registration a course. He has no idea, how many courses did he drop or fail. If he takes any drop or fails a course, whether it will overlap his regular courses.
@@ -14,4 +17,7 @@ Project Platform:
 •	PHP
 •	JavaScript
 •	MySQL
+
+Project Demo:
+>
 
