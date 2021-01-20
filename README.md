@@ -17,11 +17,15 @@ Project Platform:
 •	JavaScript
 •	MySQL
 
-Project Demo:
+### Project Demo:
 <br>
 * Home Page: ![Home Page](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/Demo%20(4).png)
->![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/SHDT%20code/img/1.png)
->![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/SHDT%20code/img/1.png)
->![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/SHDT%20code/img/1.png)
->![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/SHDT%20code/img/1.png)
+<br>
+* Result: ![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/Demo%20(2).png)
+<br>
+* Routine: ![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/Demo%20(3).png)
+<br>
+* Syllabus : ![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/Demo%20(5).png)
+<br>
+* About: ![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/Demo%20(1).png)
 
