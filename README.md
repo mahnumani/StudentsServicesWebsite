@@ -1,5 +1,4 @@
-# Student Help Desk Technician 
-<center> ![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/SHDT%20code/img/1.png)
+![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/SHDT%20code/img/1.png)
 <br>
 #### [Proposal (click here)](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/raw/master/Proposal%20(SHDT).docx)
 #### [SRS (click here)](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/raw/master/SRS%20(SHDT).docx)
@@ -19,5 +18,9 @@ Project Platform:
 •	MySQL
 
 Project Demo:
->
+>![Home Page](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/Demo%20(4).png)
+>![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/SHDT%20code/img/1.png)
+>![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/SHDT%20code/img/1.png)
+>![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/SHDT%20code/img/1.png)
+>![Application UI](https://github.com/abuhanifnumani/Student-Help-Desk-Technician/blob/master/SHDT%20code/img/1.png)
 
